@@ -4,7 +4,7 @@
 
 ### Objetivo
 
-Demonstrar na prática o funcionamento de Threads, as resoluções das questões estão localizados nas branchs
+Demonstrar na prática o funcionamento de Threads, as resoluções das questões estão localizados nas branches
 
 ### Linguagem utilizada
 
